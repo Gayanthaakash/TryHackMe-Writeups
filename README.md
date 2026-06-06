@@ -8,7 +8,7 @@ Welcome to my practical cybersecurity lab logs. This repository documents my han
 
 | Lab / Room Name | Core Focus Area | Technical Report |
 | :--- | :--- | :--- |
-| **What is Cybersecurity?** | Security Operations (SOC), Principles, and Careers | [View Report](./What-is-Cybersecurity.md) |
+| **How Websites Work** | HTTP Requests, DNS Resolution & Web Structures | [View Report](./How-Websites-Work.md) |
 | **Intro to Offensive Security** | Web App Vulnerabilities & Directory Brute-Forcing | [View Report](./Intro-to-Offensive-Security.md) |
 | **Intro to Defensive Security** | Log Analysis, Threat Detection, and Incident Response | [View Report](./Intro-to-Defensive-Security.md) |
 | **Intro to Digital Forensics** | Artifact Analysis, Evidence Gathering & Volatility | [View Report](./Intro-to-Digital-Forensics.md) |
