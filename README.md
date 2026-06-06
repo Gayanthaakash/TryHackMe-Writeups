@@ -13,7 +13,7 @@ Welcome to my practical cybersecurity lab logs. This repository documents my han
 | **Intro to Defensive Security** | Log Analysis, Threat Detection, and Incident Response | [View Report](./Intro-to-Defensive-Security.md) |
 | **Intro to Digital Forensics** | Artifact Analysis, Evidence Gathering & Volatility | [View Report](./Intro-to-Digital-Forensics.md) |
 | **Network Security Basics** | OSI Model, Packet Analysis & Network Topologies | [View Report](./Network-Security-Basics.md) |
-| **How Websites Work** | HTTP Requests, DNS Resolution & Web Structures | [View Report](./How-Websites-Work.md) |
+| **HTTP in Detail** | HTTP Protocols, Request/Response Layers & Headers | [View Report](./HTTP-in-Detail.md) |
 
 ---
 *Note: These labs map directly to my academic foundation at Staffordshire University as I prepare for my final year labs.*
