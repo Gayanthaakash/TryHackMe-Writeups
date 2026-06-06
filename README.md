@@ -1,17 +1,19 @@
-# 🎯 TryHackMe Lab Portfolio & Remediation Logs
+# 🎯 TryHackMe Lab Portfolio & Foundation Logs
 
-Welcome to my practical cybersecurity lab logs. This repository serves as a live portfolio tracking my hands-on experience across various offensive security, network analysis, and vulnerability assessment challenges on TryHackMe.
-
-Every technical writeup here follows an industry-standard framework: **Reconnaissance ➡️ Exploitation ➡️ Remediation Controls.**
+Welcome to my practical cybersecurity lab logs. This repository documents my hands-on progression through foundational security architectures, threat landscapes, and defensive environments.
 
 ---
 
-## 📊 Completed Labs Index
+## 📊 Completed Foundational Labs (Intro Pathway)
 
-| Date | Room/Lab Name | Core Focus Area | Technical Report |
-| :--- | :--- | :--- | :--- |
-| June 2026 | **Lab 1** | Network Scanning / Web Security | [View Report](./Lab1-Writeup.md) |
-| June 2026 | **Lab 2** | Privilege Escalation / Linux Basics | [View Report](./Lab2-Writeup.md) |
+| Lab / Room Name | Core Focus Area | Technical Report |
+| :--- | :--- | :--- |
+| **What is Cybersecurity?** | Security Operations (SOC), Principles, and Careers | [View Report](./What-is-Cybersecurity.md) |
+| **Intro to Offensive Security** | Web App Vulnerabilities & Directory Brute-Forcing | [View Report](./Intro-to-Offensive-Security.md) |
+| **Intro to Defensive Security** | Log Analysis, Threat Detection, and Incident Response | [View Report](./Intro-to-Defensive-Security.md) |
+| **Intro to Digital Forensics** | Artifact Analysis, Evidence Gathering & Volatility | [View Report](./Intro-to-Digital-Forensics.md) |
+| **Network Security Basics** | OSI Model, Packet Analysis & Network Topologies | [View Report](./Network-Security-Basics.md) |
+| **How Websites Work** | HTTP Requests, DNS Resolution & Web Structures | [View Report](./How-Websites-Work.md) |
 
 ---
-*Note: I update this repository weekly as I progress through intermediate offensive and defensive pathways.*
+*Note: These labs map directly to my academic foundation at Staffordshire University as I prepare for my final year labs.*
